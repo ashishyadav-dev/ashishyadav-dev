@@ -30,12 +30,6 @@ Ashish Yadav — Machine Learning & AI Systems Engineer
 </table>
 
 <br/>
-
-<div align="center">
-  <img alt="ashishyadav-code's GitHub profile" src="dark_mode.svg" width="100%" />
-</div>
-
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b71c1c,50:0d1117,100:b71c1c&height=3&section=header"/>
 
 ## ⚙️ Tech Stack & Arsenal
