@@ -15,15 +15,12 @@
 
 ### 🕷️ About Me
 
-```zsh
-$ whoami
-Ashish Yadav — Machine Learning & AI Systems Engineer
-```
+Hey, I'm Ashish. I build applied machine learning projects and work with generative AI.
 
-- 🎯 **Focus**: Engineering end-to-end applied machine learning pipelines, predictive modeling, and generative AI systems.
-- ⚡ **Exploring**: LangChain architecture, agentic routing, and real-time audio intelligence.
-- 🔭 **Current Goal**: Building production-ready AI systems from data ingestion to deployed inference.
-- 💬 **Ask me about**: Scikit-Learn, PyTorch, LangChain, LCEL, Whisper, Recommendation Systems.
+- Currently focused on training practical ML models, building data pipelines, and exploring LLM integrations.
+- Diving deeper into modern GenAI workflows, audio models with Whisper, and building functional applications around them.
+- Always experimenting with new datasets and trying to turn theory into working code.
+- Tech I work with: Python, Scikit-Learn, Pandas, NumPy, LangChain, and Whisper.
 
     </td>
   </tr>
@@ -38,7 +35,7 @@ Ashish Yadav — Machine Learning & AI Systems Engineer
 
 **Languages**  
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" />
 
 <br/><br/>
 
