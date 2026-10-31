@@ -73,7 +73,7 @@ Hey, I'm Ashish. I build applied machine learning projects and work with generat
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Applied Machine Learning Projects](https://github.com/ashishyadav-code/Applied-Machine-Learning-Projects)
+### 🤖 [Applied Machine Learning Projects](https://github.com/ashishyadav-dev/Applied-Machine-Learning-Projects)
 End-to-end applied ML implementations featuring Medical Insurance Cost regression, Telco Customer Churn classification, Used Car Valuation, and a Content-Based Movie Recommender System.
 
 `Scikit-Learn` `Regression` `Classification` `RecSys`
@@ -81,7 +81,7 @@ End-to-end applied ML implementations featuring Medical Insurance Cost regressio
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [LangChain & GenAI Study Notes](https://github.com/ashishyadav-code/LangChain-GenAI-StudyNotes)
+### ⚡ [LangChain & GenAI Study Notes](https://github.com/ashishyadav-dev/LangChain-GenAI-StudyNotes)
 Structured implementations and architectural patterns covering LLMs, ChatModels, Structured Outputs with Pydantic, Chains & Runnables, Document Loaders, and Vector Stores.
 
 `LangChain` `LLMs` `Vector Databases` `Prompt Engineering`
@@ -91,7 +91,7 @@ Structured implementations and architectural patterns covering LLMs, ChatModels,
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Machine Learning Study Vault](https://github.com/ashishyadav-code/Machine-Learning-Study-Vault)
+### 🧠 [Machine Learning Study Vault](https://github.com/ashishyadav-dev/Machine-Learning-Study-Vault)
 Curated knowledge repository documenting mathematical foundations, optimization algorithms, loss functions, statistical modeling, and hands-on notebook implementations.
 
 `Mathematics for ML` `Algorithms` `Jupyter` `Statistical Modeling`
@@ -115,8 +115,8 @@ Explorations in browser-based real-time audio capture, streaming pipelines, and 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishyadav-code&theme=tokyonight&hide_border=true&background=0d1117&ring=ff1744&fire=ff1744&currStreakLabel=ff1744" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav-code&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff1744&line=e50914&point=ffffff" width="97%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishyadav-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=ff1744&fire=ff1744&currStreakLabel=ff1744" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff1744&line=e50914&point=ffffff" width="97%"/>
 
 </div>
 
@@ -127,7 +127,7 @@ Explorations in browser-based real-time audio capture, streaming pipelines, and 
 
 <div align="center">
 
-<a href="https://github.com/ashishyadav-code" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/ashishyadav-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:ashishyadav.code@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
