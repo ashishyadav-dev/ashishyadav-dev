@@ -1,18 +1,54 @@
-<img alt="ashishyadav-code's GitHub profile" src="dark_mode.svg" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b71c1c,100:0d1117&height=220&section=header&text=Ashish%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Applied%20Machine%20Learning%20%E2%80%A2%20LLM%20Orchestration%20%E2%80%A2%20Autonomous%20Systems&descAlignY=58&descAlign=50" width="100%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,100:0a0e14&height=2&section=header"/>
+<br/>
 
-## ⚙️ Tech Stack
+<table>
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <img src="assets/avatar.png" width="220px" alt="Ashish Yadav Profile" />
+      <br/><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=250&lines=Applied+ML+Engineer;GenAI+%26+LangChain;Voice+Intelligence" alt="Typing SVG" />
+    </td>
+    <td width="64%" valign="middle">
+
+### 🕷️ About Me
+
+```zsh
+$ whoami
+Ashish Yadav — Machine Learning & AI Systems Engineer
+```
+
+- 🎯 **Focus**: Engineering end-to-end applied machine learning pipelines, predictive modeling, and generative AI systems.
+- ⚡ **Exploring**: LangChain architecture, agentic routing, and real-time audio intelligence.
+- 🔭 **Current Goal**: Building production-ready AI systems from data ingestion to deployed inference.
+- 💬 **Ask me about**: Scikit-Learn, PyTorch, LangChain, LCEL, Whisper, Recommendation Systems.
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img alt="ashishyadav-code's GitHub profile" src="dark_mode.svg" width="100%" />
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b71c1c,50:0d1117,100:b71c1c&height=3&section=header"/>
+
+## ⚙️ Tech Stack & Arsenal
 
 <div align="center">
 
-**Languages**
+**Languages**  
 <br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript&theme=dark" />
 
 <br/><br/>
 
-**AI / Machine Learning & Generative AI**
+**AI / Machine Learning & Generative AI**  
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&theme=dark" />
 <br/>
@@ -24,20 +60,21 @@
 
 <br/><br/>
 
-**Web & Databases**
+**Web & Databases**  
 <br/>
 <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mongodb,mysql&theme=dark" />
 
 <br/><br/>
 
-**Tools & Infrastructure**
+**Tools & Infrastructure**  
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,100:0a0e14&height=2&section=header"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b71c1c,50:0d1117,100:b71c1c&height=3&section=header"/>
 
 ## 🚀 Featured Engineering & Knowledge Repositories
 
@@ -80,22 +117,20 @@ Explorations in browser-based real-time audio capture, streaming pipelines, and 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,100:0a0e14&height=2&section=header"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b71c1c,50:0d1117,100:b71c1c&height=3&section=header"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashishyadav-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e14&title_color=6dd3fb&icon_color=d197f2&text_color=c7d1db" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishyadav-code&theme=tokyonight&hide_border=true&background=0a0e14&ring=6dd3fb&fire=e3b341&currStreakLabel=6dd3fb" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav-code&theme=tokyo-night&hide_border=true&bg_color=0a0e14&color=6dd3fb&line=d197f2&point=e3b341" width="97%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishyadav-code&theme=tokyonight&hide_border=true&background=0d1117&ring=ff1744&fire=ff1744&currStreakLabel=ff1744" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishyadav-code&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff1744&line=e50914&point=ffffff" width="97%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e14,100:0a0e14&height=2&section=header"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b71c1c,50:0d1117,100:b71c1c&height=3&section=header"/>
 
 ## 🌐 Connect With Me
 
